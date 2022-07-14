@@ -13,11 +13,7 @@ Tiankuo Zhang - Porkbuns
 Sophia Zhao - Chao Guo Tiao (noodle dish)
 Sol Song - Chocolate
 Aesha Kapoor - pasta
-<<<<<<< HEAD
-Aesha Kapoor - pasta
-=======
 Lily Wei - Yummy Food
 Rumeysa Mert - don't have one
 Dia Brar - Ramen
->>>>>>> 39d22ba5a90b0ff05401bcd381f38e5302653b89
 Aesha Kapoor - pasta
